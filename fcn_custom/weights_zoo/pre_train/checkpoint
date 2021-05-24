@@ -1,2 +1,0 @@
-model_checkpoint_path: "eUNET_yes_softlabel_checkpoint"
-all_model_checkpoint_paths: "eUNET_yes_softlabel_checkpoint"
